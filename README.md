@@ -1,2 +1,3 @@
 # Informatika - HTML
-## Vjezba 1
+## GLAVNA VERYIJA KOJA SE MIJENJA - dokument o gradu
+## VanjskiUnutrasnjiIzmjene - 1.11.2024 iymjenjivanje vanjskog i unutrasnjeg...
